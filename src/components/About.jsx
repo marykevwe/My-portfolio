@@ -16,7 +16,7 @@ export default function About() {
       <div className="md:w-1/2 flex justify-center">
         <div className="relative w-52 h-52 rounded-full p-2 bg-[#FE7F9C] dark:bg-[#A1045A] shadow-lg transition-colors duration-500">
           <img
-            src="/src/assets/my photo.jpeg" // <-- Replace with actual image path
+            src="/my photo.jpeg" // <-- Replace with actual image path
             alt="Mary"
             className="w-full h-full object-cover rounded-full border-4 border-white dark:border-gray-800"
           />
